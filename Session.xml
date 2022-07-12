@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Servers>
+  <Putty>
+    <Node Type="1">
+      <SavedSession>Default Settings</SavedSession>
+      <DisplayName>Test1</DisplayName>
+      <ServerName>10.10.10.10</ServerName>
+      <PuttyConType>2</PuttyConType>
+      <Port>23</Port>
+      <UserName>Bintou</UserName>
+      <Password> </Password>
+      <PasswordDelay> </PasswordDelay>
+      <CLParams>10.10.10.10 -telnet -P 23 -l Bintou</CLParams>
+      <ScriptDelay> </ScriptDelay>
+    </Node>
+    <Node Type="1">
+      <SavedSession>Default Settings</SavedSession>
+      <DisplayName>Test2</DisplayName>
+      <ServerName>10.10.10.11</ServerName>
+      <PuttyConType>2</PuttyConType>
+      <Port>23</Port>
+      <UserName>Bintou</UserName>
+      <Password> </Password>
+      <PasswordDelay> </PasswordDelay>
+      <CLParams>10.10.10.11 -telnet -P 23 -l Bintou</CLParams>
+      <ScriptDelay> </ScriptDelay>
+    </Node>
+  </Putty>
+</Servers>
